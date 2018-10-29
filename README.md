@@ -1,2 +1,2 @@
 # PruebaInicial
-Repositorio para realizar pruebas 
+Repositorio para realizar pruebas y aprender cosas de git
